@@ -32,28 +32,17 @@ Edit
 Navigate to the project folder:
 
 bash
-Copy
-Edit
+
 cd ParallelMultithreading
 Compile and run:
 
 bash
-Copy
-Edit
+
 javac src/*.java
 java -cp src Main
 License
 This project is licensed under the MIT License - feel free to use it!
 
-yaml
-Copy
-Edit
-
----
-
-If you like, I can generate this file for you and show you the **exact Git commands to add, commit, and push it** to GitHub.  
-
-Do you want me to do that next?
 
 
 
@@ -62,4 +51,8 @@ Do you want me to do that next?
 
 
 
-Ask ChatGPT
+
+
+
+
+
