@@ -6,14 +6,12 @@ It includes examples of generating files, computing maximum values (Tmax), and r
 ## Project Structure
 
 ParallelMultithreading/src/
- Main.java # Entry point of the program
- FileGenerator.java # Generates sample data/files
- Tmax.java # Calculates maximum values using multiple threads
+ -Main.java # Entry point of the program
+ 
+ -FileGenerator.java # Generates sample data/files
+ 
+ -Tmax.java # Calculates maximum values using multiple threads
 
-
-markdown
-Copy
-Edit
 
 ## Features
 
