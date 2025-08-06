@@ -29,6 +29,7 @@ Edit
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohamedwaked05/ParallelMultithreading.git
+   
 Navigate to the project folder:
 
 bash
@@ -39,9 +40,10 @@ Compile and run:
 bash
 
 javac src/*.java
+
 java -cp src Main
-License
-This project is licensed under the MIT License - feel free to use it!
+
+
 
 
 
